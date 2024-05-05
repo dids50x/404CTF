@@ -115,6 +115,7 @@ Il m'a donné une indication potentielle de jeu vidéo.
 #### Outils dédiés à Twitter
 https://tweetbeaver.com/ : `Tweetbeaver has closed due to Twitter API changes`  
 https://tinfoleak.com/ : `There were a problem while trying to generate the report: You need to assign value to OAuth tokens. Please, read the README.txt file for more information.`
+https://tweethunter.io/twitter-id-converter retourne l'ID `1772258116710670336` mais je ne sais pas quoi en faire.
 
 #### Epieos
 Ici il faut obligatoirement une adresse email. Nous ne la connaissons pas. Il faut "bruteforcer" en quelque sorte.  
