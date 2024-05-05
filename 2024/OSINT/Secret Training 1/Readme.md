@@ -127,14 +127,14 @@ Chose étrange, pour cette adresse il semble y avoir un compte Strava mais si on
 Rien avec les adresses suivantes :
 - coldsteelshoot@laposte.net
 - coldsteelshoot@hotmail.fr
-- coldsteelshoot@yahoo.fr (en cours de test)
+- coldsteelshoot@yahoo.fr
 - coldsteelshoot@orange.fr (en cours de test)
 - coldsteelshoot@ik.me (en cours de test)
-- coldsteelshoot@proton.me (en cours de test)
-- coldsteelshoot@gmx.fr (en cours de test)
+- coldsteelshoot@proton.me
+- coldsteelshoot@gmx.fr
 - coldsteelshoot@email.fr (en cours de test)
 - coldsteelshoot@mail.fr (en cours de test)
-- coldsteelshoot@outlook.fr (en cours de test)
+- coldsteelshoot@outlook.fr
 
 #### Autres outils et extensions Google Chrome testés
 
@@ -308,7 +308,7 @@ Tester adresses email sur Epieos :
 - 
 - 
 
-
+Telegram ?
 
 Tenter des recherches sur dark web.  
 
