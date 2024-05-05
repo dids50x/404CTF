@@ -177,37 +177,51 @@ Quelques réflexions :
 
 
 #### Tweets par ordre de publication
---
-Quel joli temps pour aller marcher un peu
---
-L'avantage du vent, c'est que ça te fait aller plus vite quand tu es dans son sens. Le désavantage, c'est que tu vas plus lentement quand tu es à contresens
---
-La sortie de la matinée gâchée par une averse, je croise les doigts pour cet après midi 
---
-Plus les jours avancent, plus la neige me manque, c'est toujours une adaptation de passer de la neige aux rollers pour l'entrainement...
---
-Partir à l'entrainement avec une poche pour faire les courses en rentrant
---
-Quand entrainement rime avec vent, c'est du sport, vraiment !
---
-Mon étendoir s'est fait emporter par une bourrasque...
---
-Je vais bientôt rentrer chez mes parents pour 2-3 jours, trop hâte de revenir dans le coin où j'ai grandi !!
---
-Il a fait tellement chaud ce matin, j'ai bu une carafe entière en rentrant
---
-Arrivée chez mes parents, ca fait du bien de revoir sa petite ville !! Demain, balade !
---
-Enfin des vraies petites vacances, mais le retour s'annonce explosif, j'ai tellement de motivation !
---
-Je suis passé prendre des chocolatines pour mes parents ce matin, je suis tombé sur une boulangerie incroyable ! Fait amusant, à moins de 3 km aux alentours une autre boulangerie porte le même nom 
---
-Je suis de retour de chez mes parents, j'ai fait le plein de motivation, je vais m'entrainer toujours plus dur !!
---
-La blague du jour : Vous savez pourquoi les stylos ne savent pas nager ? Parce ce que les crayons à papier (pas pied)... bon je sors m'entrainer
---
-Je passe trop de temps sur les réseaux en ce moment...  Je pense que je vais déconnecter pour me reconnecter à ma passion du sport. Je veux assurer la prochaine saison ! Triple bises
---
+1)
+> Quel joli temps pour aller marcher un peu
+
+2)
+> L'avantage du vent, c'est que ça te fait aller plus vite quand tu es dans son sens. Le désavantage, c'est que tu vas plus lentement quand tu es à contresens
+
+3)
+> La sortie de la matinée gâchée par une averse, je croise les doigts pour cet après midi 
+
+4)
+> Plus les jours avancent, plus la neige me manque, c'est toujours une adaptation de passer de la neige aux rollers pour l'entrainement...
+
+5)
+> Partir à l'entrainement avec une poche pour faire les courses en rentrant
+
+6)
+> Quand entrainement rime avec vent, c'est du sport, vraiment !
+
+7)
+> Mon étendoir s'est fait emporter par une bourrasque...
+
+8)
+> Je vais bientôt rentrer chez mes parents pour 2-3 jours, trop hâte de revenir dans le coin où j'ai grandi !!
+
+9)
+> Il a fait tellement chaud ce matin, j'ai bu une carafe entière en rentrant
+
+10)
+> Arrivée chez mes parents, ca fait du bien de revoir sa petite ville !! Demain, balade !
+
+11)
+> Enfin des vraies petites vacances, mais le retour s'annonce explosif, j'ai tellement de motivation !
+
+12)
+> Je suis passé prendre des chocolatines pour mes parents ce matin, je suis tombé sur une boulangerie incroyable ! Fait amusant, à moins de 3 km aux alentours une autre boulangerie porte le même nom 
+
+13)
+> Je suis de retour de chez mes parents, j'ai fait le plein de motivation, je vais m'entrainer toujours plus dur !!
+
+14)
+> La blague du jour : Vous savez pourquoi les stylos ne savent pas nager ? Parce ce que les crayons à papier (pas pied)... bon je sors m'entrainer
+
+15)
+> Je passe trop de temps sur les réseaux en ce moment...  Je pense que je vais déconnecter pour me reconnecter à ma passion du sport. Je veux assurer la prochaine saison ! Triple bises
+
 
 ### Autres pistes
 
