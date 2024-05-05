@@ -121,11 +121,12 @@ Ici il faut obligatoirement une adresse email. Nous ne la connaissons pas. Il fa
 Il y a un résultat avec `coldsteelshoot@gmail.com`, mais ça semble trop récent par rapport au CTF.
 L'image de profil de l'utilisateur est la même que sur Twitter : 
 https://lh3.googleusercontent.com/a-/ALV-UjWZmWaaiiZL21DBciqLVO4unckdTxn9Ejngu7jGP6dLse9nnBU  
+
 Chose étrange, pour cette adresse il semble y avoir un compte Strava mais si on cherche "ColdSteelShoot" sur Strava on ne trouve personne.
 
 Rien avec les adresses suivantes :
 - coldsteelshoot@laposte.net
-- coldsteelshoot@hotmail.fr (en cours de test)
+- coldsteelshoot@hotmail.fr
 - coldsteelshoot@yahoo.fr (en cours de test)
 - coldsteelshoot@orange.fr (en cours de test)
 - coldsteelshoot@ik.me (en cours de test)
@@ -215,6 +216,7 @@ On trouve 4 images :
 - photo de fond (header) qui provient d'un fournisseur d'images
 - meme pas bête
 - meme chat qui pleure
+
 Dans aucune des images on ne trouve de texte.
 
 Analyse de stéganographie de base sur les images ne retourne rien (strings, données exif, binwalk, LSB, comparaison avec l'image d'origine (TinEye, Google image, Bing)...).  
@@ -225,7 +227,8 @@ L'utilisateur a 4 abonnements, qui semblent être 4 vrais profils :
 - [Martin Fourcade](https://twitter.com/martinfkde) (biathlète français)
 - [Quentin Fillon Maillet](https://twitter.com/quentinfillon) (biathlète français)
 - [L'équipe](https://twitter.com/lequipe) (journal sportif)
-L'utilisateur n'est membre d'aucune liste.
+
+L'utilisateur n'est membre d'aucune liste.  
 Il ne semble y avoir rien de pertient dans les abonnés de l'utilisateur, ni dans les réponses à ses tweets (j'ai essayé d'afficher les réponses potentiellement masquées sur chacun des tweets mais ça n'a rien révélé). Rien non plus avec "Voir les engagements avec le post". L'utilisateur ne suit aucun sujet. L'utilisateur n'a pas créé de liste.
 
 Quelques réflexions :
