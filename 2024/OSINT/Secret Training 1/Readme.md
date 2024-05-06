@@ -257,49 +257,50 @@ Le biathlon d'été combine la course à pied (cross-country) ou le ski-roues (r
 
 
 #### Tweets par ordre de publication
-1)
+
+1) 10:40 AM · 28 mars 2024 (pas de ponctuation pour finir)
 > Quel joli temps pour aller marcher un peu
 
-2)
+2) 10:23 AM · 29 mars 2024 ("désavantage" au lieu de "inconvénient", et pas de ponctuation pour finir)
 > L'avantage du vent, c'est que ça te fait aller plus vite quand tu es dans son sens. Le désavantage, c'est que tu vas plus lentement quand tu es à contresens
 
-3)
-> La sortie de la matinée gâchée par une averse, je croise les doigts pour cet après midi 
+3) 12:12 PM · 30 mars 2024
+> La sortie de la matinée gâchée par une averse, je croise les doigts pour cet après midi (smiley doigts croisés)
 
-4)
+4) 11:40 AM · 2 avr. 2024
 > Plus les jours avancent, plus la neige me manque, c'est toujours une adaptation de passer de la neige aux rollers pour l'entrainement...
 
-5)
+5) 12:06 PM · 3 avr. 2024 (mot "poche", et pas de ponctuation pour finir)
 > Partir à l'entrainement avec une poche pour faire les courses en rentrant
 
-6)
+6) 9:15 PM · 4 avr. 2024 (entrainement le soir ? ou alors fin de journée)
 > Quand entrainement rime avec vent, c'est du sport, vraiment !
 
-7)
+7) 12:51 PM · 8 avr. 2024
 > Mon étendoir s'est fait emporter par une bourrasque...
 
-8)
+8) 11:17 AM · 9 avr. 2024
 > Je vais bientôt rentrer chez mes parents pour 2-3 jours, trop hâte de revenir dans le coin où j'ai grandi !!
 
-9)
+9) 10:29 AM · 10 avr. 2024 (pas de ponctuation pour finir)
 > Il a fait tellement chaud ce matin, j'ai bu une carafe entière en rentrant
 
-10)
+10) 10:59 PM · 12 avr. 2024
 > Arrivée chez mes parents, ca fait du bien de revoir sa petite ville !! Demain, balade !
 
-11)
+11) 3:33 PM · 14 avr. 2024
 > Enfin des vraies petites vacances, mais le retour s'annonce explosif, j'ai tellement de motivation !
 
-12)
-> Je suis passé prendre des chocolatines pour mes parents ce matin, je suis tombé sur une boulangerie incroyable ! Fait amusant, à moins de 3 km aux alentours une autre boulangerie porte le même nom 
+12) 10:07 AM · 16 avr. 2024 (Le tweet est au masculin)
+> Je suis passé prendre des chocolatines pour mes parents ce matin, je suis tombé sur une boulangerie incroyable ! Fait amusant, à moins de 3 km aux alentours une autre boulangerie porte le même nom (smiley qui rigole)
 
-13)
+13) 1:00 PM · 18 avr. 2024
 > Je suis de retour de chez mes parents, j'ai fait le plein de motivation, je vais m'entrainer toujours plus dur !!
 
-14)
+14) 3:58 PM · 19 avr. 2024 (pas de ponctuation pour finir)
 > La blague du jour : Vous savez pourquoi les stylos ne savent pas nager ? Parce ce que les crayons à papier (pas pied)... bon je sors m'entrainer
 
-15)
+15) 10:34 AM · 20 avr. 2024 ("les réseaux" ? pas de ponctuation pour finir)
 > Je passe trop de temps sur les réseaux en ce moment...  Je pense que je vais déconnecter pour me reconnecter à ma passion du sport. Je veux assurer la prochaine saison ! Triple bises
 
 
@@ -344,10 +345,11 @@ Secret Training = salle de sport à Paris, Séphane Robinet.
 
 Jeu vidéo "The Legend of Heroes: Trails of Cold Steel" (4 opus)
 
-Boulangerie.contact
-
 J’ai cherché « boulangerie », « boulangerie incroyable », « boulangeries qui portent le même nom »…  
 Est-ce que la boulangerie est une bonne piste ? Est-ce qu’il y a eu participation à une émission TV du style le meilleur boulanger ?
+
+
+site : boulangerie.contact
 
 https://www.location-gites65.com/legal.php
 
@@ -363,12 +365,91 @@ https://france-metal.fr/ice-cold-shot-nouvelle-video-disponible/
 
 "Cold Steel Queens" qui est une équipe qui a concouru au "U.S. Biathlon National Championships" en 2023.
 
-"branlette pour pâtisserie" ?? https://www.laboutiquedeschefs.com/patisserie-boulangerie/ustensiles-de-patisserie/saupoudreuses-branlettes/  
-(merci Google pour ce résultat intéressant à partir des mots "poudreuse" et "boulangerie")
 
 https://www.facebook.com/www.IONEYE.org/videos/ioneye-splatterbrains-film-collaboration-w-johnnyl401-gofundmeioneye-cardib-guts/2179289772162129/?locale=zh_CN
 
-Les reverse image search sur les 2 memes renvoient facilement vers www.archiveofsins.com, qui est un site coquin.
+
+
+https://music.yandex.ru/translate/track/21052823
+```
+(Now there ain’t but 20'000 police in the whole town
+Can you dig?
+Can you dig it?
+Caaaan youuuu dig iiiit?!
+— Yeah!)
+Run sucker, run sucker, run sucker, run
+Sucker run, I’m comin like a shotgun
+Schoolly-School, I’m never gonna be the one
+And if you think that I’m ever gonna let up
+Shut up — and just get up
+I’m on your back, got you runnin like a rabbit
+I’m in your veins like a cocaine habit
+And let you know that I’m never gonna stop
+Until a sucker get dropped
+I’m not your boy, you ain’t my master
+Another brother gotta do what he has ta
+Do, and everything that I wanna
+The only job I got standin on the corner
+And everything that I do is illegal
+Another brother, but the brother was an eagle
+Run, run, run, run, run, you better run fast
+Another sucker just got gased
+Alright sucker, you want the real deal?
+Here it is, at the tip of the cold steel
+Shoot a punk and a shoe-shine nigga
+Shoot em all what Schoolly D figure
+Line em up, put your finger on the trigger
+Sit back and take a little swigger
+And let a rhyme intoxicate your mind
+Like a cheeba and a forty of wine
+I’m gettin tired of every other brother in the ghetto
+Gotta sell a little lleyo
+Because a brother didn’t have enough knowledge
+Didn’t know because he didn’t go to college
+I’m gettin tired of the suckers on my back
+Because I’m black, hard with a dope rap
+Do you think a young brother wanna hear that?
+They rather hear a brother pullin on a git-gat
+Run, run, run, run, run, you better run fast
+Another sucker just got gased
+Jump fast out the startin block
+]From this gat from the fact that I hold you will feel the pop
+Gunshots on the neighborhood
+Are the sounds of brothers hard up to no good
+Feel the pain of a bullet wound
+For suckers tryin to slip and trip, time to meet their doom
+Like the sounds of a battle cry
+Either run, soft sucker, or get caught, do or die
+Flee, it’s the reality
+Cause I see another weak comp, it’s so violent, see
+Brothers dyin over property
+Dope, money, women and ki’s
+So now the time is at hand
+You can sit down, be a punk or be a man
+It’s like chillin, cold lampin on death row
+And I catch you, boy, in a grave you go
+Stay out on the move, it ain’t for fun
+Yo School, make them suckers wanna run, run, run
+(Run)
+```
+On a `cold steel Shoot` qui se suit sur 2 lignes...
+```
+Here it is, at the tip of the cold steel
+Shoot a punk and a shoe-shine nigga
+```
+
+https://nygunforum.com/threads/canceled-cold-steel-fun-shoot-dec-9th-northern-westchester-rifle-association.15311/  
+> COLD STEEL SHOOT CANCELLED DUE TO WEATHER.
+
+https://www.couteaux-center.com/PBSCProduct.asp?PGFLngID=0&ItmID=32274386
+
+
+Fun facts:
+- Les reverse image search sur les 2 memes renvoient facilement vers www.archiveofsins.com, qui est un site coquin.
+- "branlette pour pâtisserie" ?? https://www.laboutiquedeschefs.com/patisserie-boulangerie/ustensiles-de-patisserie/saupoudreuses-branlettes/  
+(merci Google pour ce résultat intéressant à partir des mots "poudreuse" et "boulangerie")
+
+---
 
 ### Sites à suivre ou à mettre de côté pour plus tard
 
