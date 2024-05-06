@@ -114,12 +114,12 @@ Il m'a donné une indication potentielle de jeu vidéo.
 
 #### Outils dédiés à Twitter
 https://tweetbeaver.com/ : `Tweetbeaver has closed due to Twitter API changes`  
-https://tinfoleak.com/ : `There were a problem while trying to generate the report: You need to assign value to OAuth tokens. Please, read the README.txt file for more information.`
+https://tinfoleak.com/ : `There were a problem while trying to generate the report: You need to assign value to OAuth tokens. Please, read the README.txt file for more information.`  
 https://tweethunter.io/twitter-id-converter retourne l'ID `1772258116710670336` mais je ne sais pas quoi en faire.
 
 #### Epieos
 Ici il faut obligatoirement une adresse email. Nous ne la connaissons pas. Il faut "bruteforcer" en quelque sorte.  
-Il y a un résultat avec `coldsteelshoot@gmail.com`, mais ça semble trop récent par rapport au CTF.
+Il y a un résultat avec `coldsteelshoot@gmail.com`, mais ça semble trop récent par rapport au CTF.  
 L'image de profil de l'utilisateur est la même que sur Twitter : 
 https://lh3.googleusercontent.com/a-/ALV-UjWZmWaaiiZL21DBciqLVO4unckdTxn9Ejngu7jGP6dLse9nnBU  
 
@@ -149,6 +149,7 @@ J'ai testé les outils et extensions Google Chrome suivantes, sans succès. Peut
 - https://www.metacrawler.com/
 - Bing
 - DuckDuckGo
+- Qwant
 - Internet Archive / Wayback Machine : http://web.archive.org/web/20240000000000*/https://twitter.com/ColdSteelShoot
 
 #### Divers réseaux sociaux alternatifs
@@ -304,10 +305,16 @@ Le biathlon d'été combine la course à pied (cross-country) ou le ski-roues (r
 
 ### Autres pistes
 
-Tester adresses email sur Epieos :
-- coldsteelshoot@laposte.net
-- 
-- 
+Dates et heures des posts Twitter ?  
+Message codé dans les posts Twitter malgré tout ?  
+
+Commentaire sur un blog dédié au biathlon ?
+
+e-sport / jeu vidéo de biathlon ?
+
+Persister sur les outils de namecheck
+
+Strava hidden user ?
 
 Telegram ?
 
@@ -317,9 +324,9 @@ Tracelabs
 
 Tiktok ? => il y a des suggestions mais qui ne semblent montrer que des vidéos vues des centaines de milliers de fois. Probabilité de matcher avec le CTF assez faibles.
 
-J'ai un peu baclé le travail sur les images du profil Twitter, il faut peut-être reprendre ce travail méticuleusement.
+J'ai un peu baclé le travail sur les images du profil Twitter, il faut peut-être reprendre ce travail méticuleusement.  
 stegopit PNG pixel indicator (`stegopit -v -i G fichier.png`)  
-stegopvd pixel value differencing (`stegopvd extract fichier.png -z`)
+stegopvd pixel value differencing (`stegopvd extract fichier.png -z`)  
 
 
 
@@ -327,7 +334,7 @@ stegopvd pixel value differencing (`stegopvd extract fichier.png -z`)
 
 Faut-il aller jusqu'à mettre en place un faux site de secret training/ biathlon pour inviter le titulaire du compte Twitter à révéler ses informations personnelles ?
 
-J'ai déjà cherché sur les noms de domaine.  
+J'ai déjà cherché sur les noms de domaine (et biathlon sur crt.sh).  
 
 Victoria Secret Training ?  
 
@@ -361,6 +368,7 @@ https://france-metal.fr/ice-cold-shot-nouvelle-video-disponible/
 
 https://www.facebook.com/www.IONEYE.org/videos/ioneye-splatterbrains-film-collaboration-w-johnnyl401-gofundmeioneye-cardib-guts/2179289772162129/?locale=zh_CN
 
+Les reverse image search sur les 2 memes renvoient facilement vers www.archiveofsins.com, qui est un site coquin.
 
 ### Sites à suivre ou à mettre de côté pour plus tard
 
