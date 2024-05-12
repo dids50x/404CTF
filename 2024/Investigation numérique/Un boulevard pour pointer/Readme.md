@@ -16,7 +16,7 @@ Trouvez le flag. Le fichier une fois décompressé fait 6GO
 
 ## Pistes, idées
 
-_Le fichier est trop volumineux pour être uploadé sur github_
+_Le fichier est trop volumineux pour être uploadé sur github (`challenge.7z`, environ 2 Go)_
 
 Challenge ?.
 
