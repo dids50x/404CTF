@@ -174,35 +174,6 @@ Aucun utilisateur ne semble avoir le pseudo `ColdSteelShoot`.
 **Description :** -  
 Aucun utilisateur ne semble avoir le pseudo `ColdSteelShoot`. 
 
-## Outils d'enquête OSINT à envisager
-
-### Spiderfoot
-**Lien :** https://github.com/smicallef/spiderfoot  
-**Description :** SpiderFoot is an open source intelligence (OSINT) automation tool. It integrates with just about every data source available and utilises a range of methods for data analysis, making that data easy to navigate.  
-
-### OsintFramework
-**Lien :** https://osintframework.com/  
-**Description :** -  
-Donne quelques idées, à voir.
-
-### Osintracker
-**Lien :** https://www.osintracker.com/  
-**Description :** -  
-Donne quelques idées, à voir.
-
-### Maltego
-**Lien :** https://github.com/smicallef/spiderfoot  
-**Description :** -  
-Besoin de temps pour prendre en main le logiciel, édition communautaire peut-être trop légère ?
-
-### Lampyre
-**Lien :** https://lampyre.io/  
-**Description :** -  
-L'outil semble poussé mais quid du tarif ?
-
-https://sociallinks.io/  
-https://i-intelligence.eu/  
-http://geocachingtoolbox.com/  
 
 
 ## Investigations
@@ -239,12 +210,13 @@ Quelques réflexions :
 - cependant l'utilisateur indique être anonyme/incognito
 - l'utilisateur indique retourner à l'entrainement mais l'IBU Cup 2023-24 s'est terminée début mars (l'IBU semble être une des principales compétitions de biathlon)
 - l'utilisateur a un pseudo plutôt étrange, "Cold Steel" est une marque de couteau, cela signifie aussi "arme blanche" en anglais, je ne comprends pas pourquoi l'utilisateur qui fait du biathlon aurait pris ce pseudo, à moins qu'il ne faille juste tenir compte de "Froid", "Acier" et "Tir"...
+- "Cold steel shoot" peut signifier "tir à froid"
 - l'utilisateur s'entraine avec des skis à roulette (ou des rollers)
 - il existe du biathlon d'été
 
-IBU : "L'IBU Cup, anciennement appelée Coupe d'Europe de Biathlon jusqu'en 2008, est une compétition de biathlon organisée chaque année par l'Union internationale de biathlon. C'est une compétition de niveau immédiatement inférieur à la Coupe du monde."
-
 Le biathlon d'été combine la course à pied (cross-country) ou le ski-roues (rollerski) et le tir sportif. ça pourrait être une piste, mais l'utilisateur indique préférer la neige.
+
+IBU : "L'IBU Cup, anciennement appelée Coupe d'Europe de Biathlon jusqu'en 2008, est une compétition de biathlon organisée chaque année par l'Union internationale de biathlon. C'est une compétition de niveau immédiatement inférieur à la Coupe du monde."
 
 À partir de mes échecs je conclus plusieurs choses :
 - il faut peut-être identifier 3 mots phares pour les tester sur https://what3words.com (j'ai déjà essayé plusieurs combinaisons par rapport au pseudo, au sport, aux boulangeries...)
@@ -306,16 +278,23 @@ Le biathlon d'été combine la course à pied (cross-country) ou le ski-roues (r
 
 ### Autres pistes
 
-Dates et heures des posts Twitter ?  
-Message codé dans les posts Twitter malgré tout ?  
+#### Applications de sport / Strava
 
-Commentaire sur un blog dédié au biathlon ?
+Je suis convaincu qu'il faut effectuer une recherche poussée sur Strava ou une application similaire.  
+Sur Strava j'ai tout fait sur l'application mobile, il aurait sans doute fallu faire les recherches sur le client web classique.  
+Peut-être fouiller dans les listes d'abonnés aux comptes de Martin Fourcade et Quentin Fillon Maillet ?  
+J'ai rapidement cherché, toujours sur Strava, tous les groupes de biathlon liés à la France, et ensuite cherché dans ces groupes un utilisateur qui aurait la même image de profil que Twitter.  
+Il fallait peut-être réussir à isoler un certain nombre de lieux par rapport à la météo (voir compte Twitter) et ensuite rechercher des segments partagés ou empruntés par des utilisateurs correspondant à ces lieux ?
+
+
+#### Autres
+
+Commentaire sur un blog dédié au biathlon ?  
+=> je suis tombé sur le site "https://www.biathlonfrance.com/" qui semble corrompu (une partie du site héberge de la pharmacie en ligne), j'ai effectué un signalement Zataz le 7 mai.
 
 e-sport / jeu vidéo de biathlon ?
 
-Persister sur les outils de namecheck
-
-Strava hidden user ?
+Persister sur les outils de namecheck.
 
 Telegram ?
 
@@ -451,7 +430,37 @@ Fun facts:
 
 ---
 
-### Sites à suivre ou à mettre de côté pour plus tard
+## Outils d'enquête OSINT à envisager
+
+### Spiderfoot
+**Lien :** https://github.com/smicallef/spiderfoot  
+**Description :** SpiderFoot is an open source intelligence (OSINT) automation tool. It integrates with just about every data source available and utilises a range of methods for data analysis, making that data easy to navigate.  
+
+### OsintFramework
+**Lien :** https://osintframework.com/  
+**Description :** -  
+Donne quelques idées, à voir.
+
+### Osintracker
+**Lien :** https://www.osintracker.com/  
+**Description :** -  
+Donne quelques idées, à voir.
+
+### Maltego
+**Lien :** https://github.com/smicallef/spiderfoot  
+**Description :** -  
+Besoin de temps pour prendre en main le logiciel, édition communautaire peut-être trop légère ?
+
+### Lampyre
+**Lien :** https://lampyre.io/  
+**Description :** -  
+L'outil semble poussé mais quid du tarif ?
+
+https://sociallinks.io/  
+https://i-intelligence.eu/  
+http://geocachingtoolbox.com/  
+
+## Sites à suivre ou à mettre de côté pour plus tard
 
 [bormaxi8080 OSINT Timeline](https://github.com/bormaxi8080/osint-timeline/) : Welcome to bormaxi8080 OSINT Timeline weekly newsletter with collection of tools, services and investigations!
 
