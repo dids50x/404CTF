@@ -1,0 +1,17 @@
+# De la friture sur la ligne (Introduction)
+
+```
+Vous êtes parti ce matin pour une compétition de pêche au bord de la rivière près de chez vous. Malheureusement vous n'avez récupéré que de la friture sur votre ligne et vous êtes fait battre à plate couture. Dépité, sur le chemin du retour, vous tombez sur une étrange clé USB...
+
+Bit de parité
+
+Note : le but du challenge est de reconstituer le fichier nommé flag.png
+```
+
+## Pistes, idées
+
+Challenge facile.
+
+https://fr.wiktionary.org/wiki/bit_de_parit%C3%A9#Locution_nominale
+
+à compléter...

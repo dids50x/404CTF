@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="fr"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+	<title>Entrée</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+</head>
+<body>
+    <div class="panneau"></div>
+    <button class="entrer-dans-le-stade">ENTRER</button>
+    <div class="barre-en-fer"></div>
+    <textarea class="zone-texte" readonly="readonly">    </textarea>
+    <div class="credits-image">
+        <p>Image de <a href="https://fr.freepik.com/photos-gratuite/tunnel-souterrain-qui-mene-exterieur_7908947.htm#fromView=search&amp;page=1&amp;position=42&amp;uuid=04bdc1b8-5842-46af-a98f-7e718c55f7da">wirestock</a> sur Freepik</p>
+    </div>
+
+
+
+<style>
+    :root {
+    --green: #145203;
+    --blue: #0561ad;
+    --yellow:#FDDA16;
+    --white:#FFFFFF;
+    --red: #d81921;
+    }
+
+    html {
+        height: 100%;
+        background-image: url("/static/images/entree.jpg");
+        background-size: cover;
+        background-position: center;
+        background-attachment: fixed;
+    }
+
+    body {
+        height: 100%;
+        position: relative;
+        margin: 40vh auto;
+        background: transparent;
+        overflow: hidden;
+    }
+
+    .panneau {
+        --sign-color: var(--red);
+        margin: 40vh auto;
+        margin-top: 0;
+        white-space: nowrap;
+        font-size: min(15vh, 70px);
+        background-color: var(--sign-color);
+        width: min-content;
+        color: white;
+        font-family: sans-serif;
+        font-weight: bold;
+        padding: 0.25em 0.25em 0.25em 0.5em;
+        border-radius: 0.25em;
+        box-shadow: 0 0 0 0.1em white, 0 0 0 calc(0.1em + 1px) var(--sign-color), 0.2em 0.2em 0.1em rgba(0, 0, 0, 0.25);
+        z-index: 2;
+        position: relative;
+    }
+
+    .panneau::before {
+        content: "INTERDIT";
+        /* Autres styles pour le texte... */
+    }
+
+    .barre-en-fer {
+        position: fixed;
+        left: 50%; /* Ajustez cette valeur pour positionner la barre en fer */
+        top: 0%;
+        bottom: 60%;
+        width: 10px; /* Ajustez cette valeur pour changer l'épaisseur de la barre */
+        background-color: #333; /* Ajustez cette valeur pour changer la couleur de la barre */
+        z-index: 0;
+    }
+
+    .entrer-dans-le-stade {
+        position: absolute;
+        top: 3%; /* Ajustez ces valeurs pour positionner le bouton */
+        left: 47%;
+        z-index: 1; /* Assure que le bouton est derrière le panneau */
+        width: 130px;
+        height: 40px;
+        color: #fff;
+        border-radius: 5px;
+        font-family: 'Lato', sans-serif;
+        font-weight: 500;
+        background: transparent;
+        cursor: pointer;
+        transition: all 0.3s ease;
+        box-shadow:inset 2px 2px 2px 0px rgba(255,255,255,.5),
+        7px 7px 20px 0px rgba(0,0,0,.1),
+        4px 4px 5px 0px rgba(0,0,0,.1);
+        outline: none;
+        background: rgb(6,14,131);
+        background: linear-gradient(0deg, rgba(6,14,131,1) 0%, rgba(12,25,180,1) 100%);
+        border: none;
+    }
+
+    .entrer-dans-le-stade:hover {
+        background: rgb(0,3,255);
+        background: linear-gradient(0deg, rgba(0,3,255,1) 0%, rgba(2,126,251,1) 100%);
+    }
+
+    .credits-image {
+        color: white;
+        position: fixed;
+        bottom: 0;
+        right: 10px;
+    }
+
+    .credits-image a {
+        color: white;
+        text-decoration: none;
+    }
+
+    .credits-image a:hover {
+        text-decoration: underline;
+    }
+
+    .zone-texte {
+        display: none;
+        position: fixed;
+        top: 10px;
+        left: 10px;
+        width: 532px;
+        height: 50px;
+        background-color: rgba(255, 192, 192, 0.5);
+        border: 2px solid #b22222;
+        padding: 10px;
+        font-size: 16px;
+        resize: none;
+        overflow: hidden;
+    }
+</style>
+
+<script>
+    setInterval(function() {
+        var panneau = document.querySelector('.panneau');
+        var barre = document.querySelector('.barre-en-fer');
+        if (!panneau && barre) {
+            barre.remove();
+        }
+    }, 100);
+
+    document.querySelector('.entrer-dans-le-stade').addEventListener('click', function() {
+        window.location.href = '/donnez-moi-mon-ticket-pitie';
+    });
+
+    window.onload = function() {
+        var cookies = document.cookie.split('; ');
+        var fraudeur = cookies.find(row => row.startsWith('fraude='));
+
+        if (fraudeur && fraudeur.split('=')[1] === 'true') {
+            var zoneTexte = document.querySelector('.zone-texte');
+            zoneTexte.textContent = 'Vous avez essayé de frauder, mais le vigile vous a aperçu et vous a ramené à l\'entrée...';
+            zoneTexte.style.display = 'block';
+        }
+    };
+</script></body></html>

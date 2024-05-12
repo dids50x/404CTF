@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="fr"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>Billetterie</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+</head>
+<body>
+    <div class="credits-image">
+        <p>Image de <a href="https://fr.freepik.com/photos-gratuite/barrieres-ticket-entree-du-metro_1120720.htm#fromView=search&amp;page=3&amp;position=18&amp;uuid=0f7a0905-63fd-44c2-8a24-e599a2b333a7">fanjianhua</a> sur Freepik</p>
+    </div>
+    <img src="Billetterie_fichiers/ticket.png" class="billet" id="053HJ28LOS">
+    <textarea class="zone-texte" readonly="readonly">Oh non ! Comme vous
+ êtes arrivé en retard, votre ticket ne fonctionne plus ! C'était 
+pourtant indiqué dessus d'arriver à l'heure...
+
+Néanmoins, vous avez toujours accès au code de la borne de validation, 
+fait en Javascript ! A vous de jouer pour valider votre ticket !
+    </textarea>
+    <button class="valider-billet">Validez votre billet ➡️</button>
+
+
+<style>
+    html {
+        height: 100%;
+        background-image: url("/static/images/barrieres-ticket-entree-du-metro.jpg");
+        background-size: cover;
+        background-position: center;
+        background-attachment: fixed;
+    }
+
+    body {
+        height: 100%;
+        position: relative;
+        margin: 40vh auto;
+        background: transparent;
+        overflow: hidden;
+    }
+
+    .credits-image {
+        color: white;
+        position: fixed;
+        bottom: 0;
+        right: 10px;
+    }
+
+    .credits-image a {
+        color: white;
+        text-decoration: none;
+    }
+
+    .credits-image a:hover {
+        text-decoration: underline;
+    }
+
+    .billet {
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        width: 20%;
+        height: auto;
+    }
+
+    .valider-billet {
+        position: fixed;
+        right: 25%;
+        top: 50%;
+        background: #d81921;
+        width: 130px;
+        height: 65px;
+        color: #fff;
+        border-radius: 5px;
+        padding: 10px 25px;
+        font-family: 'Lato', sans-serif;
+        font-weight: 500;
+        cursor: pointer;
+        transition: all 0.3s ease;
+        box-shadow:inset 2px 2px 2px 0px rgba(255,255,255,.5),
+        7px 7px 20px 0px rgba(0,0,0,.1),
+        4px 4px 5px 0px rgba(0,0,0,.1);
+        outline: none;
+        border: none;
+        z-index: 1;
+    }
+
+    .valider-billet:after {
+        position: absolute;
+        content: "";
+        width: 0;
+        height: 100%;
+        top: 0;
+        right: 0;
+        z-index: -1;
+        background-color: #d7565c;
+        border-radius: 5px;
+        box-shadow:inset 2px 2px 2px 0px rgba(255,255,255,.5),
+        7px 7px 20px 0px rgba(0,0,0,.1),
+        4px 4px 5px 0px rgba(0,0,0,.1);
+        transition: all 0.3s ease;
+    }
+
+    .valider-billet:hover{
+        color: #fff;
+    }
+
+    .valider-billet:hover:after {
+        left: 0;
+        width: 100%;
+    }
+
+    .zone-texte {
+        position: fixed;
+        top: 10px;
+        left: 10px;
+        width: 40vw;
+        height: 25vh;
+        background-color: rgba(224, 247, 250, 1);
+        border: 2px solid #0277bd;
+        padding: 10px;
+        font-size: 16px;
+        resize: none;
+        overflow: auto;
+    }
+
+</style>
+
+<script>
+    var bouton = document.querySelector('.valider-billet');
+    var billet = document.querySelector('.billet');
+    window.validable = [];
+    bouton.addEventListener('click', function() {
+        if (window.validable.includes(billet.id)) {
+            fetch('/set_cookie', {method: 'POST'}).then(function() {
+                window.location.href = "/devant-le-match";
+            });
+        } else {
+            alert('Billet non validé');
+        }
+    });
+</script>
+</body></html>
